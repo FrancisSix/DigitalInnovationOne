@@ -1,0 +1,16 @@
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.exe
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.deps.json
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.json
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.runtimeconfig.dev.json
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.dll
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\ref\DIO.bank.dll
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\bin\Debug\net5.0\DIO.bank.pdb
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.AssemblyReference.cache
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfoInputs.cache
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.AssemblyInfo.cs
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.csproj.CoreCompileInputs.cache
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.dll
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\ref\DIO.bank.dll
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.pdb
+E:\Documentos\git\DigitalInnovationOne\PrimeirosPassosDOTNET\AplicaçãodeTransferenciasBancarias\DIO.bank\obj\Debug\net5.0\DIO.bank.genruntimeconfig.cache

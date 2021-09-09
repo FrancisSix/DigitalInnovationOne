@@ -1,0 +1,16 @@
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.csproj.AssemblyReference.cache
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfoInputs.cache
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfo.cs
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.csproj.CoreCompileInputs.cache
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.exe
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.deps.json
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.json
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.dev.json
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.dll
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\ref\Desafios.dll
+E:\Documentos\git\DigitalInnovationOne\Desafios\bin\Debug\net5.0\Desafios.pdb
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.dll
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\ref\Desafios.dll
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.pdb
+E:\Documentos\git\DigitalInnovationOne\Desafios\obj\Debug\net5.0\Desafios.genruntimeconfig.cache
