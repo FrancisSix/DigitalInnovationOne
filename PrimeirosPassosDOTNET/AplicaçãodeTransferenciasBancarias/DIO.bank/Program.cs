@@ -84,7 +84,7 @@ namespace DIO.Bank
 		{
 			Console.WriteLine("Inserir nova conta");
 
-			Console.Write("Digite 1 para Conta Fisica ou 2 para Juridica: ");
+			Console.Write("Digite 1 para conta Fisica ou 2 para Juridica: ");
 			int entradaTipoConta = int.Parse(Console.ReadLine());
 
 			Console.Write("Digite o Nome do Cliente: ");
@@ -97,9 +97,9 @@ namespace DIO.Bank
 			double entradaCredito = double.Parse(Console.ReadLine());
 
 			Conta novaConta = new Conta(tipoConta: (TipoConta)entradaTipoConta,
-										saldo: entradaSaldo,
-										credito: entradaCredito,
-										nome: entradaNome);
+											saldo: entradaSaldo,
+											credito: entradaCredito,
+											nome: entradaNome);
 
 			listContas.Add(novaConta);
 		}
